@@ -7,4 +7,7 @@ return {
   "AstroNvim/astrocommunity",
   { import = "astrocommunity.pack.rust" },
   { import = "astrocommunity.pack.lua" },
+  { import = "astrocommunity.pack.go" }
+--  { import = "astrocommunity.lsp.nvim-java" }
+  -- import/override with your plugins folder
 }
